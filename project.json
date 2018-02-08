@@ -1,0 +1,8 @@
+{
+  "name": "twitchAlarm",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::629743390343:role/twitchAlarm_lambda_function",
+  "environment": {}
+}
